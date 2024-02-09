@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "As in the title. I just want to tell you that doing these amazing things using React is fun and is easier than I used to think. Im glad that I started tis journey.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Blog is fun",
+      "body": "Blog is fun.You can basicly write some shit and no one take care about it. I an write some racist stuff and be cool with it.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "It`s ame, Mario!",
+      "body": "It`s ame, Mario! Everyone knows that, but not everyone played Super Mario Bros... This is ridiculous",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
